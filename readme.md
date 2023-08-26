@@ -14,7 +14,7 @@ Pagina hecha con tailwindcss
 
 ## Deploy
 
-[Link a la pagina]()
+[Link a la pagina](https://steady-zabaione-444835.netlify.app/)
 [Link a la pagina marcada](https://64ea6d83fb981f770baceaf4--sensational-liger-ef6079.netlify.app/)
 
 ## Correr Tailwind
